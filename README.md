@@ -1,6 +1,6 @@
 <h1>It's awesome to see you here!</h1>
 
-I am Saurabh Mahra. I am a proramming enthusiast (civil engineer by trade). At the time of writing this, I am a third-year student at Indian Institute if Technology Bombay.
+I am Saurabh Mahra. I am a programming enthusiast (civil engineer by trade). I am a third-year student at the Indian Institute of Technology Bombay at the time of writing this.
 
 <h2>Things that excites me the most - </h2>
 <p>
