@@ -38,7 +38,7 @@ I am Saurabh Mahra. I am a programming enthusiast (civil engineer by trade). I a
 _You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes._
 
 <p>
-These lines from the movie Matrix (1999) has always inspired me. Working for something you dont like is called stress, working for something that you love is passion, I am passionate about programming and the things I do.
+These lines from the movie Matrix (1999) have always inspired me. Working hard for something you don't like is stress, for something you love is passion. I am passionate about programming and the things I do.
 </p>
 
 My other interests include playing Chess, Cricket and watching Football
