@@ -18,7 +18,7 @@ I am Saurabh Mahra. I am a programming enthusiast (civil engineer by trade). I a
   <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/-Kali_Linux-blue?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="AdobeXD" src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white" />
   <img alt="Suckless" src="https://img.shields.io/badge/-Suckless-1177AA?style=flat-square&logo=Suckless&logoColor=white" />
