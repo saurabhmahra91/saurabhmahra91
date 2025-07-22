@@ -5,16 +5,10 @@ I am Saurabh Mahra. I am a programming enthusiast (civil engineer by trade). I a
 <h2>Things that excites me the most - </h2>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="CPP" src="https://img.shields.io/badge/-CPP-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img alt="archlinux" src="https://img.shields.io/badge/-Arch_Linux-blue?style=flat-square&logo=archlinux&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/-Kali_Linux-blue?style=flat-square&logo=kalilinux&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
