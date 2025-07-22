@@ -10,7 +10,6 @@ I am Saurabh Mahra. I am a programming enthusiast (civil engineer by trade). I a
   <img alt="archlinux" src="https://img.shields.io/badge/-Arch_Linux-blue?style=flat-square&logo=archlinux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Kali" src="https://img.shields.io/badge/-Kali_Linux-blue?style=flat-square&logo=kalilinux&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Suckless" src="https://img.shields.io/badge/-Suckless-1177AA?style=flat-square&logo=Suckless&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" />
