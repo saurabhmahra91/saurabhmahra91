@@ -15,25 +15,12 @@ I am Saurabh Mahra. I am a programming enthusiast (civil engineer by trade). I a
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/-Kali_Linux-blue?style=flat-square&logo=kalilinux&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-  <img alt="AdobeXD" src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white" />
   <img alt="Suckless" src="https://img.shields.io/badge/-Suckless-1177AA?style=flat-square&logo=Suckless&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" />
-  <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
-  <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white" />
-  <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-f8fc03?style=flat-square&logo=Linux&logoColor=black" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
-  <img alt="Alacritty" src="https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=Alacritty&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
-  <img alt="dwm" src="https://img.shields.io/badge/-DWM-1177AA?style=flat-square&logo=dwm&logoColor=white" />
 
 _You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes._
 
